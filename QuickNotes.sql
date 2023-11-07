@@ -15,6 +15,11 @@
 --        ('FORD4','MUSTANG4',1968),
 -- 	   ('FORD5','MUSTANG5',1969);
 
+--   INSERT INTO CARS(BRAND,MODEL,YEAR1)
+--   VALUES('M3','JJJ3',1967),
+--         ('H4','LLL4',1968),
+--  	   ('D5','YTG5',1969);
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 -- ALTER TABLE : The ALTER TABLE statement is used to add, delete, or modify columns in an existing table.

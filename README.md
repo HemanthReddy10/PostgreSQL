@@ -7,7 +7,7 @@ Important notes for the postgres database
 <hr>
 <img width="1418" alt="Screenshot 2023-11-07 at 3 35 50 PM" src="https://github.com/HemanthReddy10/PostgreSQL/assets/99050861/2e35d9a5-f7ae-4040-966c-221ca126dc08">
 
-
+<hr>
 <b>To execute SQL queries in pgAdmin by using query files from GitHub, you can follow these steps:</b>
 <hr>
 
